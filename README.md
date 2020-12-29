@@ -1,5 +1,5 @@
-Livro de Receitas
+# Livro de Receitas :man_cook:
 
-Ola! Bem vindo ao meu Livro de Receitas
+Olá !  Bem vindo ao meu Livro de Receitas :wave:
 
-1. Strogonoff de frango
+- Strogonoff de frango
