@@ -1,15 +1,10 @@
-#strogonoff de Frango
+Strogonoff de Frango
 
-**Negrito**
-_intalico_
+Igredientes 
 
-:chicken ( emocion)
-
-###Igredientes 
-espaço-espaço(cria uma lista)
- 1 quilo d peito de frango
-3 colheres de sopa de óleo
-2 latas de creme de leite sem soro
-2 colehres de sopa de ketchup
+1-1 quilo d peito de frango
+2- 3 colheres de sopa de óleo
+3- 2 latas de creme de leite sem soro
+4- 2 colehres de sopa de ketchup
 
 
